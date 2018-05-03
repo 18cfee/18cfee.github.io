@@ -1,0 +1,14 @@
+    Hello World <strong> bold</strong> <br>
+    <em> italic </em> <br>
+    <a href="http://www.google.com"> google.com </a> <br>
+    <img src="CarlPic.jpg"> <br>
+
+    <ul>
+        <li> item 1</li>
+        <li> item 2</li>
+    </ul>
+
+    <ol>
+        <li> item 1</li>
+        <li> item 2</li>
+    </ol>
